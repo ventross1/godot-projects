@@ -1,0 +1,2 @@
+walljump lerp isnt working teleporting to middle instead of being smooth
+otherwise movement is finished only missing is 2 abilites
